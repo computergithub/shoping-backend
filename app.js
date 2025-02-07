@@ -4,7 +4,7 @@ const app = express();
 
 const path = require('path')
 // const userModel = require('./models/user')
-const postModel = require('./models/product');
+// const postModel = require('./models/product');
 const cookieParser = require("cookie-parser");
 // const cookie-cookieParser
 
